@@ -26,7 +26,7 @@ export default defineConfig({
     }
   },
   site: 'https://dlbdm.github.io/',
-  base: "/mydeploy",
+  // base: "/mydeploy",
   integrations: [sitemap()],
   css: {
     preprocessorOptions: {
