@@ -25,7 +25,8 @@ export default defineConfig({
     wrap: true,
     }
   },
-  site: 'https://blog-template.606design.art/',
+  site: 'https://dlbdm.github.io/',
+  base: "/mydeploy",
   integrations: [sitemap()],
   css: {
     preprocessorOptions: {
